@@ -1,0 +1,47 @@
+.hp{
+    background-color: red;
+    border-radius: 4px;
+    padding: 1px;
+    width: 120px;
+    text-align: center;
+}
+
+.attack{
+    background-color: coral;
+    border-radius: 4px;
+    padding: 1px;
+    width: 120px;
+    text-align: center;
+}
+
+.defense{
+    background-color: rgb(80, 235, 255);
+    border-radius: 4px;
+    padding: 1px;
+    width: 120px;
+    text-align: center;
+}
+
+.special-attack{
+    background-color: rgb(220, 80, 255);
+    border-radius: 4px;
+    padding: 1px;
+    width: 120px;
+    text-align: center;
+}
+
+.special-defense{
+    background-color: rgb(80, 106, 255);
+    border-radius: 4px;
+    padding: 1px;
+    width: 120px;
+    text-align: center;
+}
+
+.speed{
+    background-color: rgb(95, 255, 80);
+    border-radius: 4px;
+    padding: 1px;
+    width: 120px;
+    text-align: center;
+}
